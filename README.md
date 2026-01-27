@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi, I’m Deepraj Singh
 
-<!--
-**deeprajsingh003/deeprajsingh003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught learner focused on Cloud Computing and DevOps, actively upskilling through practical projects, professional certificate programs, and industry-aligned training.
 
-Here are some ideas to get you started:
+I focus on learning by doing projects — running code end-to-end, understanding data workflows, and documenting what I learn honestly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Certifications
+* **Google IT Support Professional Certificate** (Google)
+* **Python for Everybody Specialization** (University of Michigan)
+* **Google IT Automation with Python Professional Certificate** (Google)
+
+---
+
+### Projects
+As of now most of my repositories are based on **guided academic projects** and **capstone assignments**, which I have:
+- Executed independently
+- Customized with my own data or parameters
+- Cleaned up and documented for clarity
+
+Examples include:
+- Geocoding and map visualization using OpenStreetMap
+- PageRank web crawler and network visualization
+- Email data analysis using SQLite and Python
+
+---
+
+### 🔹 Tools & Technologies
+- Python
+- SQLite
+- GitHub
+- HTML / CSS (basic)
+- JSON & APIs
+- Powershell / Bash
+
+---
+
+### 🔹 How I Approach Learning
+- I don’t claim projects are built from scratch when they aren’t
+- I focus on understanding workflows, not just outputs
+- I value clean documentation and reproducibility
+- I improve projects gradually as my skills grow
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: *[https://linkedin.com/in/deeprajsingh003]*
+
+Thanks for visiting my profile 🙂

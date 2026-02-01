@@ -24,7 +24,7 @@ Examples include:
 
 ---
 
-### 🔹 Tools & Technologies
+### 🔹 Tools and Technologies
 - Python
 - SQLite
 - GitHub

@@ -15,7 +15,7 @@ I focus on learning by doing projects — running code end-to-end, understanding
 As of now most of my repositories are based on **guided academic projects** and **capstone assignments**, which I have:
 - Executed independently
 - Customized with my own data or parameters
-- Cleaned up and documented for clarity
+- Cleaned up & documented for clarity
 
 Examples include:
 - Geocoding and map visualization using OpenStreetMap

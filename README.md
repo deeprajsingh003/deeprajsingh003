@@ -1,6 +1,6 @@
-#A self-taught learner focused on Cloud Computing and DevOps, actively upskilling through practical projects, professional certificate programs, and industry-aligned training.
+A self-taught learner focused on Cloud Computing and DevOps, actively upskilling through practical projects, professional certificate programs, and industry-aligned training.
 
-#I focus on learning by doing projects — running code end-to-end, understanding data workflows, and documenting what I learn honestly.
+I focus on learning by doing projects — running code end-to-end, understanding data workflows, and documenting what I learn honestly.
 
 ---
 

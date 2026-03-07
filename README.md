@@ -12,7 +12,7 @@ I focus on learning by doing projects running code end-to-end, understanding dat
 ---
 
 ### Projects
-As of now most of my repositories are based on **guided academic projects** and **capstone assignments**, which I have:
+As of now most of my repositories are based on **guided academic projects** & **capstone assignments**, which I have:
 - Executed independently
 - Customized with my own data & parameters
 - Cleaned up & documented for clarity

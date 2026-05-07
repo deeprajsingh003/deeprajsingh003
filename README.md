@@ -8,6 +8,7 @@ I focus on learning by doing projects running code end-to-end, understanding dat
 * **Google IT Support Professional Certificate** (Google)
 * **Python for Everybody Specialization** (University of Michigan)
 * **Google IT Automation with Python Professional Certificate** (Google)
+* **AWS Fundamentals Specialization** (AWS)
 
 ---
 

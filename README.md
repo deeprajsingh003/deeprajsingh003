@@ -5,10 +5,12 @@ I focus on learning by doing projects running code end-to-end, understanding dat
 ---
 
 ### Certifications
-* **Google IT Support Professional Certificate** (Google)
-* **Python for Everybody Specialization** (University of Michigan)
-* **Google IT Automation with Python Professional Certificate** (Google)
-* **AWS Fundamentals Specialization** (AWS)
+* **Google IT Support Professional Certificate** (Coursera/Google)
+* **Python for Everybody Specialization** (Coursera/University of Michigan)
+* **Google IT Automation with Python Professional Certificate** (Coursera/Google)
+* **AWS Fundamentals Specialization** (Coursera/AWS)
+* **AWS Cloud Support Associate Professional Certificate** (Coursera/AWS)
+* **AWS Cloud Solutions Architect Professional Certificate** (Coursera/AWS)
 
 ---
 
@@ -32,6 +34,7 @@ Examples include:
 - HTML / CSS (basic)
 - JSON & APIs
 - Powershell / Bash
+- AWS
 
 ---
 
